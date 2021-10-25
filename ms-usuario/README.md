@@ -62,7 +62,7 @@ Caso de error email existente:
     ]
 }
 
-Caso de error password con formato no válido:
+Caso de error password con formato no válido (Formato definido en application.yml):
 {
     "name":"Gonzalo4",
     "email": "gonzalo@correo.cl",
