@@ -2,6 +2,10 @@
 
 Microservicio con la funcion de registrar usuarios y telefonos
 
+## Script creacion DB
+
+Script ubicado en /src/main/resources/schema.sql
+
 ## Uso
 
 ```python
