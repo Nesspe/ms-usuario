@@ -1,0 +1,2 @@
+pattern:
+  password: ^[a-zA-Z]+$
